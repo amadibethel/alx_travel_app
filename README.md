@@ -1,4 +1,4 @@
-# 🏡 ALX Travel App 0x00
+# ALX Travel App 0x00
 
 This project is a duplicated version of **alx_travel_app**, enhanced with models, serializers, and database seeding.  
 It demonstrates how to structure relational data in Django, expose it through Django REST Framework (DRF), and populate the database with sample data for development and testing.
